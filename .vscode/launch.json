@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/seanj/Developer/Algorithms & Advanced Data Structures Lab/Assignment 1 P2",
+      "program": "/Users/seanj/Developer/Algorithms & Advanced Data Structures Lab/Assignment 1 P2/build/Debug/outDebug"
+    }
+  ]
+}
